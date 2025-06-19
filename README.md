@@ -10,9 +10,9 @@
 - 💬 I'm open to collaborating on web-based applications, developer tools, and impactful open-source projects.
 
 ## 📫 Reach Me At
-- ✉️ Email: [monkir.cse@gmail.com](mailto:monkir.cse@gmail.com)
+- ✉️ Email: [monkirchowdhury@gmail.com](mailto:monkirchowdhury@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/monkir](https://www.linkedin.com/in/monkir)
-- 🌐 Portfolio: [monkir.dev](https://monkir.dev) *(optional—add if available)*
+- 🌐 Portfolio: [monkir.github.io](https://monkir.github.io) *(optional—add if available)*
 
 ## ⚙️ Tech Stack
 - **Frontend**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Next.js
