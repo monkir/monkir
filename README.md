@@ -12,7 +12,7 @@
 ## 📫 Reach Me At
 - ✉️ Email: [monkirchowdhury@gmail.com](mailto:monkirchowdhury@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/monkir](https://www.linkedin.com/in/monkir)
-- 🌐 Portfolio: [monkir.github.io](https://monkir.github.io) *(optional—add if available)*
+- 🌐 Portfolio: [monkir.github.io](https://monkir.github.io)
 
 ## ⚙️ Tech Stack
 - **Frontend**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Next.js
